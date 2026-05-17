@@ -1,1 +1,1 @@
-Today I learned new git commands
+In this course, I have learned about Git commands, version control, and how to work with GitHub. I also learned how to create files, commit changes, and push code to a repository. Overall, what I have learned from this course is how developers collaborate using Git and how to manage projects efficiently.
